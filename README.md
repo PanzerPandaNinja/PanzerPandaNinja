@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PanzerPandaNinja
-- 👀 I’m interested in Robotics and automation.
+👋 Hi, I’m @PanzerPandaNinja
+👀 I’m interested in Robotics and automation.
 
 <!---
 PanzerPandaNinja/PanzerPandaNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
